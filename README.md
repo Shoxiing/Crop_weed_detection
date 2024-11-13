@@ -10,8 +10,8 @@ The dataset on the kaggle on which this task was solved [here](https://www.kaggl
 The models evaluated in this study are:
 
 - **Faster R-CNN with ResNet50 FPN (fasterrcnn_resnet50_fpn_v2)**
-- **SSD300 with VGG16 backbone **
-- **YOLO version 11 large **
+- **SSD300 with VGG16 backbone**
+- **YOLO version 11 large**
 
 Each model was evaluated using the Mean Average Precision at IoU 0.5 (mAP50) metric to determine their effectiveness in detecting objects in agricultural images.
 
