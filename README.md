@@ -4,7 +4,7 @@
 
 ## The purpose of this work is to show how different detection models can be used to solve the problem of crop and weed detection
 
-This repository contains a [jupyter notebook](CropAndWeed_detection.ipynb) that presents the results of using various object detection models for recognizing crops and weeds in agricultural environments. 
+This repository contains a [jupyter notebook](crop-weed-fasterrcnn-resnet50-fpn.ipynb) that presents the results of using various object detection models for recognizing crops and weeds in agricultural environments. 
 The dataset on the kaggle on which this task was solved [here](https://www.kaggle.com/datasets/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes).
 
 The models evaluated in this study are:
